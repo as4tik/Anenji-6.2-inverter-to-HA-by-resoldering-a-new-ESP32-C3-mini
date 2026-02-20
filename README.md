@@ -17,6 +17,9 @@ On a new ESP32 I used as Rx/Tx GPIO20 and GPIO21.
 So my wiring looks like that:
 <img width="392" height="555" alt="image" src="https://github.com/user-attachments/assets/61841ea8-4ba0-41db-b256-97e816f345da" />
 
+<img width="325" height="442" alt="image" src="https://github.com/user-attachments/assets/6a435509-2047-4b20-8b72-a4e417bbfe59" />
+
+
 <img width="891" height="426" alt="image" src="https://github.com/user-attachments/assets/cba37324-ca51-4750-958c-949c806abecc" />
 
 
